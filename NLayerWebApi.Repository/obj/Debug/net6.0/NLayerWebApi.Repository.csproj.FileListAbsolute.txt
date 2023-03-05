@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\bin\Debug\net6.0\NLayerWebApi.Repository.deps.json
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\bin\Debug\net6.0\NLayerWebApi.Repository.dll
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\bin\Debug\net6.0\NLayerWebApi.Repository.pdb
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\bin\Debug\net6.0\NLayerWebApi.Core.dll
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\bin\Debug\net6.0\NLayerWebApi.Core.pdb
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\obj\Debug\net6.0\NLayerWebApi.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\obj\Debug\net6.0\NLayerWebApi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\obj\Debug\net6.0\NLayerWebApi.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\obj\Debug\net6.0\NLayerWebApi.Repository.AssemblyInfo.cs
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\obj\Debug\net6.0\NLayerWebApi.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\obj\Debug\net6.0\NLayerWebApi.Repository.csproj.CopyComplete
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\obj\Debug\net6.0\NLayerWebApi.Repository.dll
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\obj\Debug\net6.0\refint\NLayerWebApi.Repository.dll
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\obj\Debug\net6.0\NLayerWebApi.Repository.pdb
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\obj\Debug\net6.0\ref\NLayerWebApi.Repository.dll
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\bin\Debug\net6.0\NLayerWebApi.Repository.runtimeconfig.json
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Repository\obj\Debug\net6.0\NLayerWebApi.Repository.genruntimeconfig.cache

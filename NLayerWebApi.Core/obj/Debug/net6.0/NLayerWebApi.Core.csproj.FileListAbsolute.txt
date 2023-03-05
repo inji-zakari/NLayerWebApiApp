@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\bin\Debug\net6.0\NLayerWebApi.Core.deps.json
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\bin\Debug\net6.0\NLayerWebApi.Core.dll
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\bin\Debug\net6.0\NLayerWebApi.Core.pdb
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\obj\Debug\net6.0\NLayerWebApi.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\obj\Debug\net6.0\NLayerWebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\obj\Debug\net6.0\NLayerWebApi.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\obj\Debug\net6.0\NLayerWebApi.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\obj\Debug\net6.0\NLayerWebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\obj\Debug\net6.0\NLayerWebApi.Core.dll
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\obj\Debug\net6.0\refint\NLayerWebApi.Core.dll
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\obj\Debug\net6.0\NLayerWebApi.Core.pdb
+C:\Users\user\Desktop\NLayerWebApi.API\NLayerWebApi.Core\obj\Debug\net6.0\ref\NLayerWebApi.Core.dll
